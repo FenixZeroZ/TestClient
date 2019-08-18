@@ -1,1 +1,1 @@
-Первый тестовый клиент для чата.
+First test client for chat
